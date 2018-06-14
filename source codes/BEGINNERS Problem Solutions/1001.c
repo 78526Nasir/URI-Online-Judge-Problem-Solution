@@ -1,3 +1,4 @@
+
 // solution URI problem : #1001
 
 #include<stdio.h>
