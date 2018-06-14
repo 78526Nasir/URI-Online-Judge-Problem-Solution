@@ -1,4 +1,6 @@
 
+// solution URI problem : #1024
+
 #include <stdio.h>
 #include <string.h>
 #define MAX 1000
