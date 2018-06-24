@@ -1,0 +1,12 @@
+-- Problem no: 2741 --
+-- solution --
+
+
+SELECT 
+    CONCAT('Approved: ', name) AS name, grade 
+FROM 
+    students 
+WHERE 
+    grade >= 7
+ORDER BY 
+    grade DESC
