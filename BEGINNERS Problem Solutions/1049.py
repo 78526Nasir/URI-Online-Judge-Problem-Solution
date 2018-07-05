@@ -1,4 +1,4 @@
-# solution URI problem : 1048
+# solution URI problem : 1049
 
 first = input()
 second = input()
